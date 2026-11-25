@@ -37,6 +37,6 @@
 
 Помимо текущего направления 1С, в моём GitHub сохранены проекты, связанные с предыдущим опытом изучения программирования.
 
-**Java (с 2016 года)**
+**Java**
 
 [stepik-java-basics](https://github.com/WinsentV/stepik-java-basics) — архивный учебный проект с практическими решениями курса [Java. Базовый курс на Stepik](https://stepik.org/course/187/info).
